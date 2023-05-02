@@ -1,0 +1,4 @@
+# fanishah.ir
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
